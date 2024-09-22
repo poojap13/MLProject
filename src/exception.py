@@ -18,10 +18,10 @@ class CustomException(Exception):
 
 
 '''just to check whether the code is working or not '''
-'''if __name__=="__main__":
+"""if __name__=="__main__":
     try:
         a=1/0
     except Exception as e:
         logging.info("divide by 0 eroor")
         raise CustomException(e,sys)
-    '''
+"""
