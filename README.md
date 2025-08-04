@@ -18,6 +18,12 @@
 
   ---
 
+## 📊 Dataset
+**Name:** Student Performance Dataset  
+**Description:** Contains student demographics, parental education levels, lunch type, test preparation course completion, and reading/writing scores, with Math score as the target variable.  
+**Source:** [Kaggle - Student Performance Dataset](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams)  
+---
+
   ## 🛠 Tech Stack
   **Backend:** Python, Flask  
   **Machine Learning:** scikit-learn, Pandas, NumPy, CatBoost, XGBoost  
@@ -113,4 +119,5 @@ http://127.0.0.1:5000
 * **Live Demo:** [mlproject-exoa.onrender.com](https://mlproject-exoa.onrender.com)
 
 +
+
 
