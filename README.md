@@ -42,14 +42,7 @@ MLProject/
 
 ````
 
----
 
-## 📷 Screenshot
-![App Screenshot](screenshot.png)
-
-*(Replace `screenshot.png` with an actual screenshot of your deployed app — form visible with a sample prediction.)*
-
----
 
 ## ⚡ How It Works
 1. **Data Input** – User fills out the form with student info (gender, race/ethnicity, parental education, lunch type, test prep status, reading & writing scores).
@@ -114,10 +107,10 @@ http://127.0.0.1:5000
 
 ## 📬 Contact
 
-If you have any questions or feedback, feel free to reach out:
 
 * **Name:** Pooja Pathare
 * **GitHub:** [poojap13](https://github.com/poojap13)
 * **Live Demo:** [mlproject-exoa.onrender.com](https://mlproject-exoa.onrender.com)
 
 +
+
