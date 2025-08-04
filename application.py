@@ -1,14 +1,14 @@
 from flask import Flask, request, render_template
 from src.pipeline.predict_pipeline import CustomData, PredictPipeline
 
-application = Flask(__name__)
+application = Flask(__name__)  # Flask app object must be named application
 
-@app.route('/')
+@application.route('/')
 def index():
     # Show the main form directly on home page
     return render_template('home.html')
 
-@app.route('/predictdata', methods=['GET', 'POST'])
+@application.route('/predictdata', methods=['GET', 'POST'])
 def predict_datapoint():
     if request.method == 'GET':
         return render_template('home.html')
